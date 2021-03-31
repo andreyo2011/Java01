@@ -10,7 +10,7 @@ public class RecuperareMedicala {
 	private Date DataProcedura;
 		
 	public RecuperareMedicala(Clinica clinica, Terapeut terapeut, ProfilPacient pacient,
-				             int an,int luna,int zi,int ora, int minut) {
+				int an,int luna,int zi,int ora, int minut) {
 			
 		this.clinica = clinica;
 		this.terapeut = terapeut;
